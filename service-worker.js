@@ -1,8 +1,8 @@
 const CACHE_NAME = 'mi-pwa-cache-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/app.js',
+  './',
+  './index.html',
+  './app.js',
   'https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css'
 ];
 
